@@ -1,0 +1,24 @@
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\bin\Debug\FloorPlanPlacement.exe.config
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\bin\Debug\FloorPlanPlacement.exe
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\bin\Debug\FloorPlanPlacement.pdb
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\bin\Debug\FloorPlanPlacement.xml
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.vbprojResolveAssemblyReference.cache
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.frmmain.resources
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.Resources.resources
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.vbproj.GenerateResource.Cache
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.vbproj.CoreCompileInputs.cache
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.exe
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.xml
+C:\Users\boonkhai\source\repos\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.pdb
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\bin\Debug\FloorPlanPlacement.exe.config
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\bin\Debug\FloorPlanPlacement.exe
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\bin\Debug\FloorPlanPlacement.pdb
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\bin\Debug\FloorPlanPlacement.xml
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.vbprojAssemblyReference.cache
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.frmmain.resources
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.Resources.resources
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.vbproj.GenerateResource.cache
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.vbproj.CoreCompileInputs.cache
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.exe
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.xml
+C:\Project 2\FloorPlanPlacement\FloorPlanPlacement\obj\Debug\FloorPlanPlacement.pdb
